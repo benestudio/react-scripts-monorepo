@@ -1,6 +1,6 @@
 {
   "name": "@benestudioco/react-scripts-monorepo",
-  "version": "4.0.3-example.2",
+  "version": "4.0.3-example.3",
   "description": "Configuration and scripts for Create React App modified to create monorepo. Strongly depends on template @benestudioco/cra-template-monorepo.",
   "license": "MIT",
   "engines": {
